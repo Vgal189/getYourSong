@@ -1,0 +1,14 @@
+How to get the authorization token
+
+OBS: you will need to login in your spotify account to get the token
+
+1 - Access the link below:
+https://developer.spotify.com/console/get-playlist-tracks
+
+2 - Click on "GET TOKEN" (green button)
+
+3 - Click on "REQUEST TOKEN"
+
+4 - Copy the Code generated in the type box at the side of the button
+
+5 - Paste the code in the program
